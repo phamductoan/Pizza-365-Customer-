@@ -1,0 +1,59 @@
+.fixed-top {
+    background-color: orange;
+}
+.mt-1 {
+    padding-top: 5%;
+}
+.title {
+    color: orange;
+}
+.slogan {
+    color: orange;
+    font-style: italic;
+}
+.mt-2 {
+    color: orange;
+    border-bottom: 2px solid orange;
+    padding-top: 7%;
+    padding-bottom: 3%;
+    
+}
+.mt-3 {
+    border: 2px solid rgb(238, 181, 74);
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+.bg-color-1 {
+    background-color: lightgoldenrodyellow;
+}
+.bg-color-2 {
+    background-color:  yellow;
+}
+.bg-color-3 {
+    background-color: lightsalmon;
+}
+.bg-color-4 {
+    background-color: orange;
+}
+.mt-4 {
+ padding-top: 2px;
+}
+.color-1{
+    background-color: orange;
+}
+.color-2{
+    background-color: rgb(240, 203, 39)
+}
+.footer{
+    background-color: orange;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+.mt-6 {
+    padding-bottom: 5%;
+}
+.mt-7 {
+    background-color: orange;
+    max-width: 500px;
+    
+}
